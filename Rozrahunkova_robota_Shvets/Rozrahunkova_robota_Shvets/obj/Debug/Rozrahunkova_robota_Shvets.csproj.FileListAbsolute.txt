@@ -1,0 +1,15 @@
+C:\Users\nikit\source\repos\Rozrahunkova_robota_Shvets\Rozrahunkova_robota_Shvets\bin\Debug\Rozrahunkova_robota_Shvets.exe.config
+C:\Users\nikit\source\repos\Rozrahunkova_robota_Shvets\Rozrahunkova_robota_Shvets\bin\Debug\Rozrahunkova_robota_Shvets.exe
+C:\Users\nikit\source\repos\Rozrahunkova_robota_Shvets\Rozrahunkova_robota_Shvets\bin\Debug\Rozrahunkova_robota_Shvets.pdb
+C:\Users\nikit\source\repos\Rozrahunkova_robota_Shvets\Rozrahunkova_robota_Shvets\obj\Debug\Rozrahunkova_robota_Shvets.csproj.AssemblyReference.cache
+C:\Users\nikit\source\repos\Rozrahunkova_robota_Shvets\Rozrahunkova_robota_Shvets\obj\Debug\MainWindow.g.cs
+C:\Users\nikit\source\repos\Rozrahunkova_robota_Shvets\Rozrahunkova_robota_Shvets\obj\Debug\App.g.cs
+C:\Users\nikit\source\repos\Rozrahunkova_robota_Shvets\Rozrahunkova_robota_Shvets\obj\Debug\Rozrahunkova_robota_Shvets_MarkupCompile.cache
+C:\Users\nikit\source\repos\Rozrahunkova_robota_Shvets\Rozrahunkova_robota_Shvets\obj\Debug\Rozrahunkova_robota_Shvets_MarkupCompile.lref
+C:\Users\nikit\source\repos\Rozrahunkova_robota_Shvets\Rozrahunkova_robota_Shvets\obj\Debug\MainWindow.baml
+C:\Users\nikit\source\repos\Rozrahunkova_robota_Shvets\Rozrahunkova_robota_Shvets\obj\Debug\Rozrahunkova_robota_Shvets.g.resources
+C:\Users\nikit\source\repos\Rozrahunkova_robota_Shvets\Rozrahunkova_robota_Shvets\obj\Debug\Rozrahunkova_robota_Shvets.Properties.Resources.resources
+C:\Users\nikit\source\repos\Rozrahunkova_robota_Shvets\Rozrahunkova_robota_Shvets\obj\Debug\Rozrahunkova_robota_Shvets.csproj.GenerateResource.cache
+C:\Users\nikit\source\repos\Rozrahunkova_robota_Shvets\Rozrahunkova_robota_Shvets\obj\Debug\Rozrahunkova_robota_Shvets.csproj.CoreCompileInputs.cache
+C:\Users\nikit\source\repos\Rozrahunkova_robota_Shvets\Rozrahunkova_robota_Shvets\obj\Debug\Rozrahunkova_robota_Shvets.exe
+C:\Users\nikit\source\repos\Rozrahunkova_robota_Shvets\Rozrahunkova_robota_Shvets\obj\Debug\Rozrahunkova_robota_Shvets.pdb
